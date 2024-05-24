@@ -54,7 +54,7 @@ global.botname = process.env.BOT_NAME || 'LUCIYA-MD_V4' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '916307965352' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'LUCIFER"DEVIL👿👿😈😈' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'LUCIFER"DEVIL' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@anyt"
 //________________________________________________________________________________________________________
@@ -68,7 +68,7 @@ global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLI
 //________________________________________________________________________________________________________
 global.packname = process.env.PACK_NAME || "LUCIYA-MD_V4"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY LUCIFER"DEVIL"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY "
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "916307965352@s.whatsapp.net"
 //________________________________________________________________________________________________________
